@@ -25,6 +25,10 @@ If you encounter technical difficulties installing the software, you can instead
 -   Reading list
     -   [Your Textbook](https://www.statlearning.com/) (Section 2.3 Lab: Introduction to R)
     -   [Hands-on Programming with R](https://rstudio-education.github.io/hopr/) (Optional; Chapter 1 to 3; Chapter 4 to 7, 9 and 11)
+    
+### Session 2, 3, 4
+
+*Coming Soon*
 
 ------------------------------------------------------------------------
 
