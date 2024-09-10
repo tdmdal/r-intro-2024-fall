@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "R Intro (Fall 2024 / RSM358)",
+    "section": "",
+    "text": "R is an open-source programming language for statistical computing and graphics. It has a large collection of high-quality user contributed packages that provides powerful tools for data analysis tasks. This 4-session workshop will introduce you the basics of R programming and data analysis so as to prepare you for the RSM358 coding assignments.\n\n\nWhat To Prepare\nPlease install R and RStudio Desktop before the first session.\nIf you encounter technical difficulties installing the software, you can instead use R and RStudio in the Cloud at the UofT JupyterHub. Simply go to its landing page and choose the RStudio option. You will need your UTORid to login.\n\n\n\nSession 1\n\nSlides\nCode\n\nChapter 2 lab from your textbook\n\nExtra notebooks for R programming basics (optional)\n\nData structures basics (R Notebook )\nProgramming structures basics (R Notebook )\n\nReading list\n\nYour Textbook (Section 2.3 Lab: Introduction to R)\nHands-on Programming with R (Optional; Chapter 1 to 3; Chapter 4 to 7, 9 and 11)\n\n\n\n\n\nResources\n\nFrom Zero to Hero\n\nStep 1: Hands-on Programming with R (beginner level; learn R programming basics.)\nStep 2: R for Data Science (intermediate level; learn to manipulate, analyze and visualize data using R’s Tidyverse packages.)\nStep 3: Advanced R (advanced level; learn to master R.)\n\nOther Resources\n\nR for Reproducible Scientific Analysis (from software carpentry)\nProgramming with R (from software carpentry)\nR Graphics Cookbook\nggplot2: Elegant Graphics for Data Analysis\nThe R Graph Gallery (R graph samples with code)\nR Cheat Sheets (cheat sheets for many popular R packages)\nDoSStoolkit (self-paced interactive modules to help you learn and use R from Uoft Dept. of Statistical Science)\n\n\n\nBack to TDMDAL Computing Page"
+  }
+]
