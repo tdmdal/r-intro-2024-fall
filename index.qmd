@@ -38,8 +38,16 @@ If you encounter technical difficulties installing the software, you can instead
 -   Reading list
     -   [Your Textbook](https://www.statlearning.com/) (Section 3.6 Lab: Linear Regression)
 
+### Session 3
+-   [Slides](r_intro_part3.pdf)
+-   Code
+    -   [Chapter 3 & 4 labs](https://www.statlearning.com/resources-second-edition) from your textbook
+-   Extra slides and notebook for logistic regression (optional)
+    -   [Slides](r_intro_part3_optional.pdf)
+    -   Linear Regression - Base R tooling (R Notebook [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-intro-2024-fall/blob/master/docs/logistic_regression.ipynb))
 
-### Session 3, 4
+
+### Session 4
 
 *Coming Soon*
 
