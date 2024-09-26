@@ -45,6 +45,8 @@ If you encounter technical difficulties installing the software, you can instead
 -   Extra slides and notebook for logistic regression (optional)
     -   [Slides](r_intro_part3_optional.pdf)
     -   Linear Regression - Base R tooling (R Notebook [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-intro-2024-fall/blob/master/docs/logistic_regression.ipynb))
+-   Reading list
+    -   [Your Textbook](https://www.statlearning.com/) (Section 4.7 Lab: Classification Methods)
 
 
 ### Session 4
