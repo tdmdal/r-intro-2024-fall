@@ -50,8 +50,11 @@ If you encounter technical difficulties installing the software, you can instead
 
 
 ### Session 4
-
-*Coming Soon*
+-   [Slides](r_intro_part4.pdf)
+-   Code
+    -   [Chapter 4 labs](https://www.statlearning.com/resources-second-edition) from your textbook
+-   Reading list
+    -   [Your Textbook](https://www.statlearning.com/) (Section 4.7 Lab: Classification Methods)
 
 ------------------------------------------------------------------------
 
